@@ -22,7 +22,7 @@ mat=np.array(eval(input()))
 ans=np.linalg.norm(mat,1)
 Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
-```
+
 
 ```
 # 2-Norm of a Matrix
@@ -36,7 +36,6 @@ Norm_of_matrix="{:.2f}".format(ans)
 print(Norm_of_matrix)
 
 
-```
 
 
 ```
@@ -55,7 +54,7 @@ print(Norm_of_matrix)
 
 
 
-```
+
 ## Output:
 ### 1-Norm of a Matrix
 ![image](https://github.com/23007965/Norm-of-a-matrix/assets/138971238/42104e43-9108-4e97-bc67-b681464f787c)
